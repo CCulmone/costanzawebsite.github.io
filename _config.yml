@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Costanza Culmone"
 title_separator          : "-"
-name                     : &name "Costanza Culmone"
+name                     : &name "Costanza Culmone/ Website name"
 description              : &description "personal description"
 url                      : https://github.com/CCulmone/costanzawebsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
